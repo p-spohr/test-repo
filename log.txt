@@ -1,2 +1,5 @@
-
-list = ['ice cream', 'cat', 'yellow']
+1
+2
+3 list = ['ice cream', 'cat', 'yellow']
+4
+5
