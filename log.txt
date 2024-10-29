@@ -1,2 +1,3 @@
 favorite food pizza
 favorite animal dog
+favorite color red
