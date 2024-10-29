@@ -1,3 +1,2 @@
-favorite food ice cream
-favorite animal cat
-favorite color yellow
+
+list = ['ice cream', 'cat', 'yellow']
